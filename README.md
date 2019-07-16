@@ -1,4 +1,4 @@
-# API design in Node.js with Express, v3
+# API design in Node.js with Express, v3 lesson two fun
 > Scott Moss & Frontend Masters
 
 - [Resources](#resources)
